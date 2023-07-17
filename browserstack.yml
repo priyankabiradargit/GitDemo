@@ -1,0 +1,16 @@
+userName: priyankabiradar_7kBVXN
+accessKey: bomwX3QDDkxfm29xey3f
+framework: testng
+platforms:
+  - os: Windows
+    osVersion: 10
+    browserName: Edge
+    browserVersion: 112.0
+  - os: Windows
+    osVersion: 11
+    browserName: Chrome
+    browserVersion: 112.0
+  - os: OS X
+    osVersion: Monterey
+    browserName: Chrome
+    browserVersion: 112.0

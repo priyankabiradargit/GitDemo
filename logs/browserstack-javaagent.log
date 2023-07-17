@@ -1,0 +1,9 @@
+15:41:59.724 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.10.0
+15:41:59.728 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+15:42:00.070 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\0054A6744\eclipse-workspace\CrossBrowserTest\browserstack.yml
+15:42:00.162 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+15:42:00.176 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+15:42:20.652 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/c0cojaqysc8lnmxctbd2auxpmdrpvfctcbjyl3kx to view build report, insights, and many more debugging information all at one place!
+
+15:42:20.865 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+15:42:20.865 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
